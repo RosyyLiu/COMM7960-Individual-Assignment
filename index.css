@@ -1,0 +1,24 @@
+.ax1,.gqq1,.txl1,.gql1{
+    position:absolute;left: 50px; z-index: 1;
+}
+.ax1:hover,.gqq1:hover,.txl1:hover,.gql1:hover{
+    opacity: 0;
+}
+.xj:hover,.gqs:hover,.cst:hover,.txh:hover{
+    filter: grayscale(100%);
+}
+
+body{
+    background-image: url(image/bg.jpg);background-size: contain;margin: 50px;
+}
+
+.rwjs,.nav{background-color:whitesmoke;}
+
+table{width:100%;height: 700px; background-color:whitesmoke;}
+
+h1{background-color:grey;}
+h2{background-color:lightcoral;}
+.name{font-size:x-large; font-weight: bold;}
+p{line-height: 35px;}
+
+.intro,h3,td{text-align: center;}
